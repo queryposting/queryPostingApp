@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+#card_for_comment_content_css {
+	max-width: 70rem;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 1 px solid black;
+}
+
+.author_header_div {
+	padding: 3%;
+	margin-left: 1%
+}
+
+.src_of_image {
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+.image_fix{
+	height: 100%; width: 100%
+	
+}
+.author_name_div{
+	margin-left: 2%;
+}
+.card_text_div{
+	padding-bottom: 2%; padding-left: 5%; padding-right: 3%; padding-top: 1%; margin-left: 2%
+}
+.

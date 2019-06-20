@@ -1,0 +1,24 @@
+*{
+	color: white;
+}
+
+.bg{
+	  background: url('../image/pic1.jpg') no-repeat;
+		width: 100%;
+		height: 100vh;
+		  background-size: cover;
+}
+.form-container{
+	border:0px solid #fff; padding: 50px 60px;margin-top: 20vh;
+	-webkit-box-shadow: -1px 4px 25px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 4px 25px 12px rgba(0,0,0,0.75);
+box-shadow: -1px 4px 25px 12px rgba(0,0,0,0.75);
+}
+.social-login{
+	 text-align: center;
+	  color: white;
+}
+
+#btnPrimary{
+	text-decoration-color: white;
+}
